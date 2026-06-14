@@ -21,3 +21,6 @@ https://data.cityofnewyork.us/resource/erm2-nwe9.csv
 - Filtered to closed complaints only
 - Data-driven agency selection (median > 10 days, min 50 complaints)
 - Trend analysis across two time windows
+
+## agency performance over 6 months
+
